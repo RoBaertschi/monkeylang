@@ -611,4 +611,7 @@ A cheeky simian-inspired interpreter and compiler duo for the Monkey programming
 {{< monkey-implementation "bpetermann" "node-interpreter" "TypeScript">}}
 An implementation of the Monkey Language in TypeScript.
 {{< /monkey-implementation >}}
+
+{{< monkey-implementation "RoBaertschi" "monkey-lang" "Go">}}
+{{< /monkey-implementation >}}
 </ul>
